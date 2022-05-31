@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OOP_Pada_Pemgrograman_Grafis.vcxproj, RGB_CLOCK.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Square.cpp
+D:\Visual Studio\My Project\Tugas 02 - Max Newman\RGB_CLOCK\Square.h(34,6): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Tugas-02_Max_Newman.cpp
+D:\Visual Studio\My Project\Tugas 02 - Max Newman\RGB_CLOCK\Square.h(34,6): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio\My Project\Tugas 02 - Max Newman\RGB_CLOCK\Tugas-02_Max_Newman.cpp(245,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\Visual Studio\My Project\Tugas 02 - Max Newman\x64\Debug\vc120.pdb'; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  RGB_CLOCK.vcxproj -> D:\Visual Studio\My Project\Tugas 02 - Max Newman\x64\Debug\Tugas 02 - Max Newman.exe
